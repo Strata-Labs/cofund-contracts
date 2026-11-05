@@ -1,0 +1,10 @@
+# Foundry
+/out
+/cache
+/broadcast
+
+# Local environment
+.env
+
+# Not used by this repo any more; kept so a stray install cannot be committed.
+node_modules
